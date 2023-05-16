@@ -10,3 +10,6 @@ I'm beginner of programming.
 
 ## backend
 * python
+
+## Memo
+2023/3/1 ~ 2023/5/16(now)までAzureで開発してたため、草が生えず..(悲しい)
