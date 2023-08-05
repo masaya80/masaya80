@@ -12,4 +12,4 @@ I'm beginner of programming.
 * python
 
 ## Memo
-2023/3/1 ~ 2023/5/16(now)までAzureで開発してたため、草が生えず..(悲しい)
+2023/3/1 ~ 2023/7/31(now)までほとんどAzureで開発してたため、草が生えず..(悲しい)
