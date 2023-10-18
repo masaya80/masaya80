@@ -1,20 +1,15 @@
 # Introduction
 Hi, I'm masaya shimoda, a student at the Faculty of Environment and Information Studies at Keio University.
 
-# My　curiosity
-I'm beginner of programming.
+## Conatct
+- twitter: [https://twitter.com/shimoda_masaya](https://twitter.com/shimoda_masaya)
+- Instagram: [https://www.instagram.com/shimoda_masaya/](https://www.instagram.com/shimoda_masaya/)
 
-## frontend
-* Next.js
-* JavaScript
-* TypeScript
-* React
+# Github Activited
+[![Anurag's GitHub stats](https://github-readme-stats-git-main-anisakis.vercel.app/api/top-langs/?username=masaya80&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## backend(beginner)
-* Python
-* Ruby
-* TypeScript
-  * Nest.js
+[![Anurag's GitHub stats](https://github-readme-stats-git-main-anisakis.vercel.app/api?username=masaya80&show_icons=true&theme=dark&count_private=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Memo
 - 2023/3/1 ~ 2023/7/31
