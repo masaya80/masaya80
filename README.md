@@ -5,6 +5,7 @@ Hi, I'm masaya shimoda, a student at the Faculty of Environment and Information 
 - twitter: [https://twitter.com/shimoda_masaya](https://twitter.com/shimoda_masaya)
 - Instagram: [https://www.instagram.com/shimoda_masaya/](https://www.instagram.com/shimoda_masaya/)
 - mail: [shimoda.masaya@cama.jp](mailto:shimoda.masaya@cama.jp)
+- 
 if you want my portfolio or Career History, contact me
 
 # Github Activited
