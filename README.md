@@ -1,5 +1,6 @@
 # Introduction
-Hi, I'm masaya shimoda, a student at the Faculty of Environment and Information Studies at Keio University.
+Hi, I'm masaya shimoda, a student at the Faculty of Environment and Information Studies at Keio University.  
+I love **Next.js!**
 
 ## Conatct
 - twitter: [https://twitter.com/shimoda_masaya](https://twitter.com/shimoda_masaya)
