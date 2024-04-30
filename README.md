@@ -11,6 +11,10 @@ I have experience managing a front-end team of about 6 people. And I also handle
   
 if you want my portfolio or Career History, contact me
 
+# Programming Languge I like the best
+![next](https://github.com/masaya80/masaya80/assets/104957915/be014062-92ac-4640-bd44-4d054ba51562)
+
+
 # Github Activited
 [![Anurag's GitHub stats](https://github-readme-stats-git-main-anisakis.vercel.app/api/top-langs/?username=masaya80&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
