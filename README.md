@@ -1,13 +1,7 @@
 # Introduction
-Hi, I'm masaya shimoda, a student at the Faculty of Environment and Information Studies at Keio University.  
-I love **Next.js!**　　
+Hi, I'm masaya shimoda
 
 I have experience managing a front-end team of about 6 people. And I also handled the communication with the backend team.
-
-## Conatct
-- twitter: [https://twitter.com/shimoda_masaya](https://twitter.com/shimoda_masaya)
-- Instagram: [https://www.instagram.com/shimoda_masaya/](https://www.instagram.com/shimoda_masaya/)
-- mail: [shimoda.masaya@cama.jp](mailto:shimoda.masaya@cama.jp)
   
 if you want my portfolio or Career History, contact me
 
